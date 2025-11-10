@@ -1,34 +1,70 @@
-## Hi, I'm Brian.
+# Hi, I'm Brian.
 
-I’m building a career in IT with a focus on support, reliability, and practical problem-solving.  
-I care about doing things the right way, with patience, clarity, and consistency.
+I’m building a career in IT focused on reliability, clarity, and doing things the right way even when it’s slower or less flashy. I like systems that are documented, predictable, and easy to support as a team.
 
-### What I'm Working On
-- A structured homelab environment (AD, M365, Intune, pfSense, patching, and ticketing workflows)
-- PowerShell for safe, repeatable automation
-- Honest documentation that someone *else* could follow without guessing
+---
 
-### What I Value
-- Calm thinking under pressure
-- Clear communication
-- Steady progress instead of burnout cycles
-- Being someone teammates can depend on
+## What I’ve Built Recently
 
-### Background
-I came into IT through hands-on troubleshooting with real users, not just theory.  
-I’ve worked service desk / MSP support, especially in VOIP environments, where reliability matters more than buzzwords.
+I have been developing a structured Windows homelab to deepen my foundation in real-world IT support workflows:
 
-I like systems that are:
-- Predictable
-- Documented
-- Easy to hand over to the next person
+- Active Directory Domain Services (lab.local)
+- DNS configuration for identity resolution
+- Clean OU structure (Users, Computers, Groups, Service Accounts)
+- Standard and Helpdesk account separation
+- Shared network folders with NTFS and share permissions
+- Role-based access via security groups (no one-off permission creep)
+- Group Policy-based drive mappings using item-level targeting
 
-### Current Goals
-- Complete Network+ and strengthen core fundamentals
-- Build a clean, well-organized technical portfolio
-- Grow into roles where I can mentor newer techs the way others mentored me
+Each lab is fully documented with screenshots and step-by-step verification, so someone else could follow it without guessing.
 
-If you're here to look at my work, start with the homelabs folder.  
-Everything there is intentional and designed to be read, understood, and improved over time.
+---
 
-Thanks for stopping by.
+## What I'm Working On Now
+
+- DHCP configuration with dynamic DNS updates
+- Continuing to refine documentation clarity and structure
+- Studying for Network+ to strengthen fundamentals
+
+---
+
+## Upcoming (Not claiming these as done yet)
+
+These are next in the roadmap, not listed as existing skill:
+
+- M365 / Entra ID identity sync
+- Intune device management
+- Ticketing and change-control workflows
+- pfSense firewall and VLAN segmentation
+- PowerShell automation for repeatable admin tasks
+
+I list these so you can see my direction, not as experience I already have.
+
+---
+
+## What I Value
+
+- Calm thinking when things break
+- Communicating clearly without jargon walls
+- Steady progress instead of burnout sprints
+- Being someone teammates can rely on
+
+---
+
+## Background
+
+I entered IT through hands-on support roles.  
+I have worked MSP support in VOIP environments where uptime, communication, and patience matter every day.
+
+---
+
+## If You're Here to Look at Work
+
+Start in the `/homelabs` folder.  
+Everything there is intentional, written to teach, and designed to be improved over time.
+
+---
+
+Thanks for taking the time to look.
+
+**Brian**
